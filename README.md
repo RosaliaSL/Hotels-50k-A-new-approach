@@ -17,6 +17,8 @@ Recognizing the hotel from images is challenging because of:
 The dataset includes 1 million annotated hotel room images from 50,000 hotels. The set of images includes professionally captured photographs from travel websites and 
 crowd-sources images from mobile applications, which bear a great similarity to the images analyzed in real-world investigations.
 
+Original Paper: https://ojs.aaai.org//index.php/AAAI/article/view/3863
+
 ## Dataset Statistics
 
 Hotels-50K consists of 1,027,871 images from 50,000 unique hotels around the world. Each of the images in the Hotels-50K dataset includes the following metadata: (1) hotel name, (2) geographic location, and (3) hotel chain, or Other if the hotel property is not part of a major chain.
